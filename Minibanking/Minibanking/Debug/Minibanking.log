@@ -1,0 +1,24 @@
+﻿  AccArr.cpp
+  ACCOUNT.cpp
+D:\Minibanking\Minibanking\ACCOUNT.cpp(30,60): warning C4290:  C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Minibanking\Minibanking\ACCOUNT.cpp(31,1): warning C5043:  'ACCOUNT::setminusbalance': exception specification does not match previous declaration
+D:\Minibanking\Minibanking\ACCOUNT.h(34): message :  see declaration of 'ACCOUNT::setminusbalance'
+D:\Minibanking\Minibanking\ACCOUNT.cpp(68,32): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\Minibanking\Minibanking\ACCOUNT.cpp(77,33): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\Minibanking\Minibanking\ACCOUNT.cpp(81,33): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+  AccountHandlr.cpp
+  MiniBankingSystemMain.cpp
+  ScreenOut.cpp
+  Exception.cpp
+  String.cpp
+D:\Minibanking\Minibanking\ACCOUNT.cpp(85,33): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\Minibanking\Minibanking\String.cpp(13,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  see declaration of 'strcpy'
+D:\Minibanking\Minibanking\String.cpp(20,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  see declaration of 'strcpy'
+D:\Minibanking\Minibanking\String.cpp(42,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  see declaration of 'strcpy'
+D:\Minibanking\Minibanking\String.cpp(65,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  see declaration of 'strcpy'
+  Minibanking.vcxproj -> D:\Minibanking\Debug\Minibanking.exe

@@ -1,0 +1,55 @@
+┌ ┐ ┘ └ ─ │
+	──────────
+
+cout << "┌────────── Menu ──────────┐" << endl;
+	cout << "│\t\t   1. 계좌개설   \t\t│" << endl;
+	cout << "│\t\t   2. 입    금   \t\t│" << endl;
+	cout << "│\t\t   3. 출    금   \t\t│" << endl;
+	cout << "│\t\t   4. 전체출력   \t\t│" << endl;
+	cout << "│\t\t   5. 종    료   \t\t│" << endl;
+	cout << "└───────────────────────┘" << endl;
+
+
+cout << "┌────────계좌 종류 선택────────┐" << endl;
+	cout << "│\t\t1. 일반 예금 계좌\t\t│" << endl;
+	cout << "│\t\t2. 신용 거래 계좌\t\t│" << endl;
+	cout << "│\t\t3. 메  인  메  뉴\t\t│" << endl;
+	cout << "└───────────────────────┘" << endl;
+
+cout << "┌────────신용 등급 정보────────┐" << endl;
+	cout << "│\tA등급 : 기본 이율 + 7%\t│" << endl;
+	cout << "│\tB등급 : 기본 이율 + 4%\t│" << endl;
+	cout << "│\tC등급 : 기본 이율 + 2%\t│" << endl;
+	cout << "└───────────────────────┘" << endl;
+
+cout << "┌────────일반 계좌 개설────────┐" << endl;
+
+
+
+cout << "┌───────────────────────┐" << endl;
+cout << "│\t\t   ※ 경 고 ※     \t\t│" << endl;
+cout << "│\t "<< money << "원은 출금 불가 금액입니다.\t│" << endl;
+cout << "└───────────────────────┘" << endl;
+
+
+
+
+
+cout << "┌───────── 입    금 ─────────┐" << endl;
+
+cout << "┌───────── 입    금 ─────────┐" << endl;
+		cout << "│\t\t계좌번호 : "; cin >> id;
+		cout << "\t입 금 액 : "; cin >> money;
+		cout << "└───────────────────────┘" << endl;
+
+cout << "┌────────일  반  고  객────────┐" << endl;
+cout << "\t계좌번호 : " << accArr[i]->getaccID() << endl;
+cout << "\t고 객 명 : " << accArr[i]->getcusName() << endl;
+cout << "\t잔    액 : " << accArr[i]->getbalance() << "원" << endl;
+cout << "\t이    율 : " << accArr[i]->getroi() << '%' << endl;
+cout << "└───────────────────────┘" << endl;
+
+
+
+
+
