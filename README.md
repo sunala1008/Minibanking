@@ -18,6 +18,9 @@
 - Compiler : Version _MSC_VER 1916
 - 언어 : C++
 
+# Class Diagram
+![ClassDiagram 7 (2)](https://user-images.githubusercontent.com/50562490/61343716-c2945e00-a889-11e9-86ca-9a736e3955fb.png)
+
 # 구동 영상 URL
 -	https://hoy.kr/n9Squ
 
